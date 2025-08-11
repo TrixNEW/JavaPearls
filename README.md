@@ -57,9 +57,3 @@ Whenever a player throws an ender pearl:
 - PHP **8.1+**
 
 ---
-
-## ⚠️ Errors
-If a value in `pearl-motion` is not a float, the plugin will throw a `ConfigException` and refuse to enable.
-
----
-
