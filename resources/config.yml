@@ -1,0 +1,7 @@
+# Configuration File
+
+# Adjust the motion axis values
+pearl-motion:
+  x: 1.4
+  y: 1.4
+  z: 1.4

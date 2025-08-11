@@ -1,0 +1,6 @@
+name: PearlMotion
+main: trix\pearl\Root
+version: 1.0.0
+api: 5.0.0
+author: Trix
+description: Change the motion of pearls
